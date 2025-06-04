@@ -1,7 +1,5 @@
 # About Me 👋
 
----
-
 `Digital Craftsman (Full Stack Developer/Cyber-Security Enthusiast/Lifelong Learner)`
 
 ## 🌐 Socials:
@@ -10,9 +8,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/541352538910359563)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31g5myjpi3aesuarmxy67vrybvwi?si=92ccbab32ccd4cba)
 [![Gmail](https://img.shields.io/badge/Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lkingerslev@gmail.com)
-
-
----
 
 ## 💻 Coding Languages:
 
@@ -26,8 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 
----
-
 ## ⚙️ Technologies Used:
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
@@ -40,8 +33,6 @@
 ![Google](https://img.shields.io/badge/Google-white.svg?style=for-the-badge&logo=google&logoColor=black)
 ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
----
-
 ## 📊 GitHub Stats:
 
 [![Github Followers](https://img.shields.io/github/followers/CalciumKing?style=for-the-badge&logo=GitHub&color=black)](https://github.com/CalciumKing?tab=followers)
@@ -53,8 +44,6 @@
 ![Basic Stats](https://github-readme-streak-stats.herokuapp.com/?user=calciumking&theme=dark&hide_border=false)
 
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=calciumking&theme=dark&count_private=false&layout=compact&v=1)
-
----
 
 ## 🚀 My Coding Journey:
 
@@ -73,8 +62,6 @@ constantly experimenting and challenging myself.
 Now, I’m continuing that path in higher education — aiming to become either a software developer or a cyber-security
 specialist. No matter where I land, I’ll keep learning, building, and breaking — because that’s what I love most.
 
----
-
 ## 🎯 More About Me:
 
 - 🤓 Total Nerd
@@ -86,4 +73,3 @@ specialist. No matter where I land, I’ll keep learning, building, and breaking
 - 🖨️ Printer Hacker
 - 📱 Avid Pokémon Go Player
 
----
