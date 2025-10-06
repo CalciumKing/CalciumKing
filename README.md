@@ -39,7 +39,7 @@
 
 [//]: # (![Github Rank]&#40;https://github-readme-stats.vercel.app/api?username=calciumking&theme=dark&hide_border=false&include_all_commits=true&count_private=false&#41;)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CalciumKing&theme=darkhub&rank=SSS,SS,S,A,B&row=2&column=3)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CalciumKing&theme=darkhub&rank=SSS,SS,S,A,AA,AAA,B&row=2&column=3)
 
 ![Basic Stats](https://github-readme-streak-stats.herokuapp.com/?user=calciumking&theme=dark&hide_border=false)
 
